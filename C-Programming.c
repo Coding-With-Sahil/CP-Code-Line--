@@ -114,17 +114,17 @@
 // =========================================================================
 
 // 8.Program to convert distance form km to metre:
-#include<stdio.h>
-void main()
-{
-	int m ,km;
-	printf("\n Enter the value of Kilometre: ");
-	scanf("%d", &km);
+// #include<stdio.h>
+// void main()
+// {
+// 	int m ,km;
+// 	printf("\n Enter the value of Kilometre: ");
+// 	scanf("%d", &km);
 
-	m = km * 1000;
-	printf("\n Kilometre in Metre is = %d", m);
+// 	m = km * 1000;
+// 	printf("\n Kilometre in Metre is = %d", m);
 
-}
+// }
 
 // =========================================================================
 
